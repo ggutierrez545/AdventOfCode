@@ -1,0 +1,520 @@
+Game 1
+Pull: 7 red
+Pull: 6 blue
+Pull: 2 red
+Pull: 9 green
+Pull: 6 blue
+Game 2
+Pull: 2 green
+Pull: 5 blue
+Pull: 5 blue
+Pull: 7 blue
+Pull: 5 red
+Pull: 1 red
+Game 3
+Pull: 4 red
+Pull: 6 green
+Pull: 12 red
+Pull: 10 green
+Game 4
+Pull: 12 red
+Pull: 1 green
+Pull: 16 red
+Not including: 4
+Game 5
+Pull: 19 red
+Not including: 5
+Game 6
+Pull: 8 green
+Pull: 1 red
+Pull: 6 green
+Pull: 14 green
+Not including: 6
+Game 7
+Pull: 2 red
+Pull: 9 red
+Pull: 16 blue
+Not including: 7
+Game 8
+Pull: 5 blue
+Pull: 8 red
+Pull: 8 green
+Pull: 5 blue
+Pull: 2 red
+Pull: 3 green
+Game 9
+Pull: 3 red
+Pull: 7 green
+Pull: 12 blue
+Game 10
+Pull: 6 blue
+Pull: 17 red
+Not including: 10
+Game 11
+Pull: 2 green
+Pull: 14 red
+Not including: 11
+Game 12
+Pull: 16 green
+Not including: 12
+Game 13
+Pull: 13 red
+Not including: 13
+Game 14
+Pull: 16 red
+Not including: 14
+Game 15
+Pull: 6 red
+Pull: 10 red
+Pull: 5 blue
+Pull: 16 blue
+Not including: 15
+Game 16
+Pull: 8 green
+Pull: 6 red
+Pull: 7 blue
+Pull: 5 red
+Pull: 1 blue
+Pull: 6 green
+Game 17
+Pull: 4 green
+Pull: 2 green
+Pull: 1 red
+Game 18
+Pull: 6 blue
+Pull: 4 green
+Pull: 8 blue
+Pull: 4 blue
+Game 19
+Pull: 12 blue
+Pull: 2 blue
+Pull: 3 green
+Pull: 3 green
+Pull: 10 green
+Pull: 8 green
+Game 20
+Pull: 4 green
+Pull: 9 red
+Pull: 1 blue
+Pull: 8 red
+Pull: 7 red
+Pull: 6 green
+Game 21
+Pull: 7 red
+Pull: 1 blue
+Pull: 5 green
+Pull: 7 red
+Pull: 4 green
+Game 22
+Pull: 6 red
+Pull: 2 green
+Pull: 18 blue
+Not including: 22
+Game 23
+Pull: 2 green
+Pull: 2 red
+Pull: 8 red
+Game 24
+Pull: 9 blue
+Pull: 3 green
+Pull: 2 red
+Pull: 3 green
+Game 25
+Pull: 2 green
+Pull: 2 red
+Pull: 3 red
+Pull: 1 blue
+Game 26
+Pull: 1 green
+Pull: 6 green
+Pull: 11 green
+Pull: 6 red
+Pull: 1 blue
+Pull: 8 green
+Game 27
+Pull: 2 green
+Pull: 5 red
+Pull: 2 green
+Pull: 4 red
+Pull: 3 green
+Pull: 8 blue
+Game 28
+Pull: 9 red
+Pull: 6 blue
+Pull: 10 red
+Game 29
+Pull: 15 blue
+Not including: 29
+Game 30
+Pull: 7 blue
+Pull: 12 blue
+Pull: 1 red
+Game 31
+Pull: 6 green
+Pull: 7 red
+Pull: 2 red
+Pull: 2 red
+Game 32
+Pull: 9 red
+Pull: 3 blue
+Pull: 2 blue
+Game 33
+Pull: 13 blue
+Pull: 5 red
+Pull: 2 green
+Pull: 2 blue
+Pull: 13 blue
+Pull: 3 blue
+Game 34
+Pull: 3 blue
+Pull: 7 green
+Pull: 17 green
+Not including: 34
+Game 35
+Pull: 5 red
+Pull: 5 blue
+Pull: 2 blue
+Pull: 8 green
+Pull: 3 green
+Game 36
+Pull: 4 blue
+Pull: 8 red
+Pull: 3 green
+Pull: 1 red
+Pull: 7 blue
+Pull: 13 blue
+Game 37
+Pull: 6 green
+Pull: 5 red
+Pull: 4 red
+Pull: 12 green
+Pull: 4 red
+Game 38
+Pull: 3 red
+Pull: 1 blue
+Pull: 2 red
+Pull: 2 blue
+Pull: 4 green
+Pull: 3 red
+Game 39
+Pull: 6 red
+Pull: 17 blue
+Not including: 39
+Game 40
+Pull: 20 red
+Not including: 40
+Game 41
+Pull: 2 blue
+Pull: 4 red
+Pull: 5 green
+Pull: 8 red
+Game 42
+Pull: 3 red
+Pull: 2 blue
+Pull: 6 green
+Game 43
+Pull: 9 red
+Pull: 1 green
+Pull: 8 blue
+Game 44
+Pull: 15 blue
+Not including: 44
+Game 45
+Pull: 3 green
+Pull: 2 blue
+Pull: 4 green
+Pull: 1 red
+Game 46
+Pull: 20 green
+Not including: 46
+Game 47
+Pull: 5 blue
+Pull: 5 blue
+Pull: 2 green
+Pull: 1 red
+Pull: 2 blue
+Game 48
+Pull: 2 red
+Pull: 6 blue
+Pull: 11 blue
+Pull: 1 red
+Pull: 1 green
+Game 49
+Pull: 3 blue
+Pull: 14 red
+Not including: 49
+Game 50
+Pull: 1 green
+Pull: 3 green
+Pull: 4 red
+Game 51
+Pull: 3 green
+Pull: 2 red
+Pull: 10 green
+Pull: 1 blue
+Pull: 1 green
+Pull: 2 blue
+Game 52
+Pull: 2 green
+Pull: 7 red
+Pull: 2 blue
+Pull: 1 blue
+Game 53
+Pull: 7 red
+Pull: 1 blue
+Pull: 12 red
+Pull: 1 blue
+Game 54
+Pull: 1 green
+Pull: 4 blue
+Pull: 4 red
+Pull: 1 green
+Pull: 1 red
+Game 55
+Pull: 2 blue
+Pull: 1 blue
+Pull: 2 blue
+Pull: 2 blue
+Pull: 6 green
+Game 56
+Pull: 3 red
+Pull: 7 green
+Pull: 12 red
+Game 57
+Pull: 6 red
+Pull: 6 blue
+Pull: 4 red
+Pull: 4 green
+Pull: 1 green
+Game 58
+Pull: 8 red
+Pull: 8 blue
+Pull: 1 red
+Pull: 5 green
+Pull: 9 blue
+Game 59
+Pull: 11 green
+Pull: 5 red
+Pull: 6 red
+Pull: 1 blue
+Pull: 8 green
+Pull: 6 blue
+Game 60
+Pull: 16 green
+Not including: 60
+Game 61
+Pull: 11 blue
+Pull: 9 red
+Pull: 7 red
+Pull: 19 blue
+Not including: 61
+Game 62
+Pull: 2 green
+Pull: 1 green
+Pull: 1 blue
+Pull: 2 blue
+Pull: 5 red
+Pull: 7 green
+Game 63
+Pull: 14 blue
+Pull: 3 blue
+Pull: 8 blue
+Pull: 9 blue
+Game 64
+Pull: 8 blue
+Pull: 1 green
+Pull: 4 green
+Pull: 9 blue
+Game 65
+Pull: 5 red
+Pull: 7 red
+Pull: 2 blue
+Pull: 6 green
+Game 66
+Pull: 9 blue
+Pull: 8 blue
+Pull: 1 red
+Pull: 2 green
+Pull: 14 blue
+Pull: 2 red
+Game 67
+Pull: 7 green
+Pull: 16 red
+Not including: 67
+Game 68
+Pull: 11 blue
+Pull: 6 red
+Pull: 1 green
+Pull: 10 blue
+Pull: 7 blue
+Pull: 9 blue
+Game 69
+Pull: 9 red
+Pull: 2 blue
+Pull: 4 green
+Pull: 3 blue
+Pull: 1 green
+Pull: 1 blue
+Game 70
+Pull: 5 blue
+Pull: 1 red
+Pull: 4 green
+Pull: 2 green
+Pull: 10 blue
+Game 71
+Pull: 1 green
+Pull: 6 red
+Pull: 7 blue
+Pull: 2 green
+Pull: 6 red
+Pull: 6 red
+Game 72
+Pull: 12 red
+Pull: 11 red
+Pull: 3 green
+Pull: 14 red
+Not including: 72
+Game 73
+Pull: 3 green
+Pull: 4 green
+Pull: 2 red
+Pull: 4 green
+Game 74
+Pull: 12 red
+Pull: 3 blue
+Pull: 5 red
+Game 75
+Pull: 14 green
+Not including: 75
+Game 76
+Pull: 4 green
+Pull: 4 blue
+Pull: 10 red
+Pull: 9 red
+Pull: 8 blue
+Pull: 8 blue
+Game 77
+Pull: 7 red
+Pull: 12 green
+Pull: 8 red
+Pull: 11 green
+Game 78
+Pull: 9 green
+Pull: 7 blue
+Pull: 5 green
+Pull: 9 green
+Game 79
+Pull: 2 red
+Pull: 1 green
+Pull: 1 blue
+Pull: 1 green
+Pull: 4 blue
+Game 80
+Pull: 8 red
+Pull: 12 red
+Pull: 13 red
+Not including: 80
+Game 81
+Pull: 2 green
+Pull: 1 red
+Pull: 4 green
+Pull: 3 blue
+Pull: 6 blue
+Game 82
+Pull: 6 blue
+Pull: 5 blue
+Pull: 1 green
+Game 83
+Pull: 2 red
+Pull: 7 red
+Pull: 11 red
+Pull: 14 red
+Not including: 83
+Game 84
+Pull: 3 blue
+Pull: 7 blue
+Pull: 14 blue
+Pull: 7 blue
+Pull: 9 red
+Pull: 13 blue
+Game 85
+Pull: 1 green
+Pull: 1 blue
+Pull: 11 green
+Game 86
+Pull: 2 green
+Pull: 4 green
+Pull: 3 blue
+Pull: 1 red
+Pull: 9 red
+Pull: 4 green
+Game 87
+Pull: 1 red
+Pull: 14 red
+Not including: 87
+Game 88
+Pull: 3 red
+Pull: 2 blue
+Pull: 13 green
+Game 89
+Pull: 2 red
+Pull: 6 green
+Pull: 8 red
+Pull: 1 blue
+Pull: 4 red
+Pull: 1 blue
+Game 90
+Pull: 4 red
+Pull: 9 red
+Pull: 9 blue
+Pull: 3 red
+Pull: 15 blue
+Not including: 90
+Game 91
+Pull: 14 green
+Not including: 91
+Game 92
+Pull: 10 green
+Pull: 12 green
+Pull: 12 green
+Game 93
+Pull: 1 blue
+Pull: 2 blue
+Pull: 2 green
+Pull: 4 red
+Pull: 4 red
+Game 94
+Pull: 2 red
+Pull: 7 red
+Pull: 1 blue
+Pull: 1 green
+Game 95
+Pull: 1 red
+Pull: 6 red
+Pull: 2 blue
+Pull: 1 red
+Pull: 1 red
+Game 96
+Pull: 1 green
+Pull: 7 red
+Pull: 18 blue
+Not including: 96
+Game 97
+Pull: 5 blue
+Pull: 7 red
+Pull: 11 green
+Game 98
+Pull: 1 green
+Pull: 6 red
+Pull: 5 red
+Pull: 2 green
+Game 99
+Pull: 11 red
+Pull: 3 red
+Pull: 19 green
+Not including: 99
+Game 100
+Pull: 10 red
+Pull: 11 blue
+Pull: 1 green
+ID Sum: 3689
