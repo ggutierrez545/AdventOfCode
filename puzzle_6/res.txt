@@ -1,0 +1,1307 @@
+Looking at gear: (1, 53)
+Using 892 in ratio
+Using 296 in ratio
+Added
+Looking at gear: (1, 104)
+Using 127 in ratio
+Using 45 in ratio
+Added
+Looking at gear: (2, 4)
+Using 606 in ratio
+Using 902 in ratio
+Added
+Looking at gear: (2, 16)
+Using 425 in ratio
+Using 888 in ratio
+Added
+Looking at gear: (2, 85)
+Using 967 in ratio
+Looking at gear: (2, 118)
+Using 926 in ratio
+Using 512 in ratio
+Added
+Looking at gear: (2, 132)
+Using 218 in ratio
+Using 994 in ratio
+Added
+Looking at gear: (3, 70)
+Using 777 in ratio
+Looking at gear: (3, 120)
+Using 10 in ratio
+Using 290 in ratio
+Added
+Looking at gear: (4, 54)
+Using 143 in ratio
+Looking at gear: (4, 75)
+Using 196 in ratio
+Looking at gear: (5, 29)
+Using 201 in ratio
+Using 924 in ratio
+Added
+Looking at gear: (5, 96)
+Using 458 in ratio
+Using 200 in ratio
+Added
+Looking at gear: (6, 4)
+Using 318 in ratio
+Using 850 in ratio
+Added
+Looking at gear: (6, 74)
+Using 568 in ratio
+Using 921 in ratio
+Added
+Looking at gear: (6, 113)
+Using 792 in ratio
+Using 793 in ratio
+Added
+Looking at gear: (6, 127)
+Using 460 in ratio
+Using 305 in ratio
+Added
+Looking at gear: (7, 30)
+Using 775 in ratio
+Using 129 in ratio
+Added
+Looking at gear: (7, 39)
+Using 448 in ratio
+Using 816 in ratio
+Added
+Looking at gear: (8, 48)
+Using 201 in ratio
+Looking at gear: (8, 106)
+Using 732 in ratio
+Using 812 in ratio
+Added
+Looking at gear: (9, 85)
+Using 400 in ratio
+Using 141 in ratio
+Added
+Looking at gear: (10, 27)
+Using 59 in ratio
+Using 722 in ratio
+Added
+Looking at gear: (10, 37)
+Using 125 in ratio
+Using 808 in ratio
+Added
+Looking at gear: (11, 32)
+Using 178 in ratio
+Using 375 in ratio
+Added
+Looking at gear: (11, 62)
+Using 919 in ratio
+Using 639 in ratio
+Added
+Looking at gear: (12, 10)
+Using 152 in ratio
+Using 964 in ratio
+Added
+Looking at gear: (12, 20)
+Using 116 in ratio
+Using 68 in ratio
+Added
+Looking at gear: (12, 36)
+Using 812 in ratio
+Using 601 in ratio
+Added
+Looking at gear: (12, 45)
+Using 624 in ratio
+Using 874 in ratio
+Added
+Looking at gear: (12, 98)
+Using 825 in ratio
+Using 670 in ratio
+Added
+Looking at gear: (12, 108)
+Using 953 in ratio
+Using 497 in ratio
+Added
+Looking at gear: (12, 123)
+Using 265 in ratio
+Using 710 in ratio
+Added
+Looking at gear: (13, 71)
+Using 857 in ratio
+Using 686 in ratio
+Added
+Looking at gear: (13, 84)
+Using 887 in ratio
+Using 395 in ratio
+Added
+Looking at gear: (14, 3)
+Using 862 in ratio
+Using 766 in ratio
+Added
+Looking at gear: (14, 27)
+Using 4 in ratio
+Using 206 in ratio
+Added
+Looking at gear: (15, 44)
+Using 345 in ratio
+Using 706 in ratio
+Added
+Looking at gear: (16, 25)
+Using 390 in ratio
+Using 596 in ratio
+Added
+Looking at gear: (16, 114)
+Using 900 in ratio
+Using 778 in ratio
+Added
+Looking at gear: (16, 120)
+Using 750 in ratio
+Using 761 in ratio
+Added
+Looking at gear: (17, 13)
+Using 322 in ratio
+Using 887 in ratio
+Added
+Looking at gear: (17, 52)
+Using 141 in ratio
+Using 52 in ratio
+Added
+Looking at gear: (17, 94)
+Using 334 in ratio
+Using 278 in ratio
+Added
+Looking at gear: (17, 128)
+Using 804 in ratio
+Using 659 in ratio
+Added
+Looking at gear: (18, 99)
+Using 718 in ratio
+Using 102 in ratio
+Added
+Looking at gear: (19, 23)
+Using 979 in ratio
+Using 751 in ratio
+Added
+Looking at gear: (19, 42)
+Using 215 in ratio
+Using 542 in ratio
+Added
+Looking at gear: (20, 65)
+Using 585 in ratio
+Looking at gear: (20, 79)
+Using 126 in ratio
+Using 954 in ratio
+Added
+Looking at gear: (20, 109)
+Using 207 in ratio
+Using 140 in ratio
+Added
+Looking at gear: (21, 12)
+Using 374 in ratio
+Using 823 in ratio
+Added
+Looking at gear: (21, 87)
+Using 363 in ratio
+Using 275 in ratio
+Added
+Looking at gear: (21, 101)
+Using 24 in ratio
+Using 351 in ratio
+Added
+Looking at gear: (22, 38)
+Using 835 in ratio
+Using 551 in ratio
+Added
+Looking at gear: (22, 60)
+Using 764 in ratio
+Using 978 in ratio
+Added
+Looking at gear: (23, 51)
+Using 956 in ratio
+Using 223 in ratio
+Added
+Looking at gear: (24, 25)
+Using 342 in ratio
+Using 53 in ratio
+Added
+Looking at gear: (24, 46)
+Using 507 in ratio
+Looking at gear: (24, 64)
+Using 667 in ratio
+Using 220 in ratio
+Added
+Looking at gear: (25, 41)
+Using 204 in ratio
+Using 714 in ratio
+Added
+Looking at gear: (25, 95)
+Using 973 in ratio
+Using 95 in ratio
+Added
+Looking at gear: (25, 100)
+Using 668 in ratio
+Looking at gear: (25, 107)
+Using 476 in ratio
+Looking at gear: (25, 135)
+Using 479 in ratio
+Using 699 in ratio
+Added
+Looking at gear: (26, 126)
+Using 658 in ratio
+Using 75 in ratio
+Added
+Looking at gear: (27, 88)
+Using 518 in ratio
+Using 488 in ratio
+Added
+Looking at gear: (28, 26)
+Using 31 in ratio
+Using 250 in ratio
+Added
+Looking at gear: (28, 100)
+Using 159 in ratio
+Using 220 in ratio
+Added
+Looking at gear: (28, 106)
+Using 814 in ratio
+Using 799 in ratio
+Added
+Looking at gear: (29, 79)
+Using 11 in ratio
+Using 125 in ratio
+Added
+Looking at gear: (30, 12)
+Using 426 in ratio
+Using 102 in ratio
+Added
+Looking at gear: (30, 23)
+Using 889 in ratio
+Using 94 in ratio
+Added
+Looking at gear: (30, 45)
+Using 209 in ratio
+Using 997 in ratio
+Added
+Looking at gear: (30, 75)
+Using 115 in ratio
+Using 685 in ratio
+Added
+Looking at gear: (30, 111)
+Using 417 in ratio
+Using 140 in ratio
+Added
+Looking at gear: (30, 118)
+Using 762 in ratio
+Using 12 in ratio
+Added
+Looking at gear: (30, 127)
+Using 539 in ratio
+Using 588 in ratio
+Added
+Looking at gear: (31, 16)
+Using 844 in ratio
+Using 2 in ratio
+Added
+Looking at gear: (31, 41)
+Using 507 in ratio
+Using 698 in ratio
+Added
+Looking at gear: (31, 89)
+Using 878 in ratio
+Using 315 in ratio
+Added
+Looking at gear: (32, 134)
+Using 596 in ratio
+Using 581 in ratio
+Added
+Looking at gear: (33, 69)
+Using 302 in ratio
+Using 762 in ratio
+Added
+Looking at gear: (33, 129)
+Using 542 in ratio
+Using 120 in ratio
+Added
+Looking at gear: (34, 35)
+Using 358 in ratio
+Using 257 in ratio
+Added
+Looking at gear: (34, 49)
+Using 593 in ratio
+Looking at gear: (35, 31)
+Using 57 in ratio
+Using 75 in ratio
+Added
+Looking at gear: (35, 56)
+Using 194 in ratio
+Using 675 in ratio
+Added
+Looking at gear: (35, 93)
+Using 524 in ratio
+Using 850 in ratio
+Added
+Looking at gear: (35, 114)
+Using 709 in ratio
+Using 789 in ratio
+Added
+Looking at gear: (36, 40)
+Using 485 in ratio
+Using 56 in ratio
+Added
+Looking at gear: (36, 64)
+Using 420 in ratio
+Using 282 in ratio
+Added
+Looking at gear: (37, 77)
+Using 301 in ratio
+Using 552 in ratio
+Added
+Looking at gear: (37, 135)
+Using 223 in ratio
+Using 232 in ratio
+Added
+Looking at gear: (39, 102)
+Using 190 in ratio
+Using 605 in ratio
+Added
+Looking at gear: (40, 73)
+Using 378 in ratio
+Using 929 in ratio
+Added
+Looking at gear: (40, 121)
+Using 949 in ratio
+Using 498 in ratio
+Added
+Looking at gear: (40, 126)
+Using 465 in ratio
+Using 47 in ratio
+Added
+Looking at gear: (41, 56)
+Using 116 in ratio
+Using 164 in ratio
+Added
+Looking at gear: (41, 92)
+Using 766 in ratio
+Using 133 in ratio
+Added
+Looking at gear: (41, 134)
+Using 789 in ratio
+Using 593 in ratio
+Added
+Looking at gear: (42, 23)
+Using 579 in ratio
+Using 729 in ratio
+Added
+Looking at gear: (42, 44)
+Using 318 in ratio
+Using 619 in ratio
+Added
+Looking at gear: (42, 79)
+Using 456 in ratio
+Using 505 in ratio
+Added
+Looking at gear: (42, 98)
+Using 531 in ratio
+Using 985 in ratio
+Added
+Looking at gear: (43, 104)
+Using 619 in ratio
+Using 751 in ratio
+Added
+Looking at gear: (44, 17)
+Using 481 in ratio
+Using 624 in ratio
+Added
+Looking at gear: (44, 66)
+Using 942 in ratio
+Using 818 in ratio
+Added
+Looking at gear: (44, 72)
+Using 855 in ratio
+Using 431 in ratio
+Added
+Looking at gear: (45, 87)
+Using 108 in ratio
+Using 837 in ratio
+Added
+Looking at gear: (47, 26)
+Using 312 in ratio
+Looking at gear: (47, 60)
+Using 719 in ratio
+Using 415 in ratio
+Added
+Looking at gear: (47, 95)
+Using 678 in ratio
+Looking at gear: (47, 98)
+Using 838 in ratio
+Looking at gear: (47, 110)
+Using 175 in ratio
+Using 420 in ratio
+Added
+Looking at gear: (47, 120)
+Using 99 in ratio
+Using 368 in ratio
+Added
+Looking at gear: (48, 55)
+Using 268 in ratio
+Using 824 in ratio
+Added
+Looking at gear: (48, 66)
+Using 445 in ratio
+Using 499 in ratio
+Added
+Looking at gear: (49, 24)
+Using 793 in ratio
+Using 34 in ratio
+Added
+Looking at gear: (49, 31)
+Using 70 in ratio
+Using 239 in ratio
+Added
+Looking at gear: (49, 41)
+Using 868 in ratio
+Using 152 in ratio
+Added
+Looking at gear: (49, 71)
+Using 430 in ratio
+Using 373 in ratio
+Added
+Looking at gear: (49, 75)
+Using 22 in ratio
+Using 253 in ratio
+Added
+Looking at gear: (50, 93)
+Using 532 in ratio
+Using 321 in ratio
+Added
+Looking at gear: (51, 66)
+Using 460 in ratio
+Using 465 in ratio
+Added
+Looking at gear: (51, 131)
+Using 976 in ratio
+Using 776 in ratio
+Added
+Looking at gear: (52, 31)
+Using 448 in ratio
+Using 808 in ratio
+Added
+Looking at gear: (52, 48)
+Using 864 in ratio
+Using 30 in ratio
+Added
+Looking at gear: (52, 121)
+Using 741 in ratio
+Using 278 in ratio
+Added
+Looking at gear: (53, 20)
+Using 669 in ratio
+Looking at gear: (53, 89)
+Using 778 in ratio
+Using 763 in ratio
+Added
+Looking at gear: (53, 96)
+Using 329 in ratio
+Using 711 in ratio
+Added
+Looking at gear: (53, 102)
+Using 738 in ratio
+Using 136 in ratio
+Added
+Looking at gear: (54, 10)
+Using 971 in ratio
+Using 839 in ratio
+Added
+Looking at gear: (54, 16)
+Using 182 in ratio
+Looking at gear: (54, 38)
+Using 669 in ratio
+Using 545 in ratio
+Added
+Looking at gear: (54, 83)
+Using 763 in ratio
+Using 439 in ratio
+Added
+Looking at gear: (55, 76)
+Using 166 in ratio
+Using 43 in ratio
+Added
+Looking at gear: (55, 120)
+Using 506 in ratio
+Using 87 in ratio
+Added
+Looking at gear: (56, 11)
+Using 282 in ratio
+Using 792 in ratio
+Added
+Looking at gear: (56, 22)
+Using 21 in ratio
+Using 684 in ratio
+Added
+Looking at gear: (56, 60)
+Using 41 in ratio
+Using 982 in ratio
+Added
+Looking at gear: (56, 106)
+Using 181 in ratio
+Using 832 in ratio
+Added
+Looking at gear: (56, 129)
+Using 736 in ratio
+Using 192 in ratio
+Added
+Looking at gear: (57, 40)
+Using 220 in ratio
+Using 697 in ratio
+Added
+Looking at gear: (57, 73)
+Using 237 in ratio
+Using 784 in ratio
+Added
+Looking at gear: (57, 87)
+Using 870 in ratio
+Looking at gear: (57, 93)
+Using 678 in ratio
+Using 464 in ratio
+Added
+Looking at gear: (57, 103)
+Using 656 in ratio
+Using 572 in ratio
+Added
+Looking at gear: (58, 79)
+Using 469 in ratio
+Using 334 in ratio
+Added
+Looking at gear: (58, 120)
+Using 171 in ratio
+Using 388 in ratio
+Added
+Looking at gear: (59, 58)
+Using 693 in ratio
+Using 187 in ratio
+Added
+Looking at gear: (60, 5)
+Using 505 in ratio
+Using 362 in ratio
+Added
+Looking at gear: (60, 41)
+Using 183 in ratio
+Using 327 in ratio
+Added
+Looking at gear: (60, 106)
+Using 422 in ratio
+Using 811 in ratio
+Added
+Looking at gear: (61, 72)
+Using 644 in ratio
+Using 571 in ratio
+Added
+Looking at gear: (61, 82)
+Using 401 in ratio
+Using 284 in ratio
+Added
+Looking at gear: (61, 92)
+Using 272 in ratio
+Using 98 in ratio
+Added
+Looking at gear: (61, 101)
+Using 760 in ratio
+Using 477 in ratio
+Added
+Looking at gear: (61, 123)
+Using 54 in ratio
+Using 981 in ratio
+Added
+Looking at gear: (61, 130)
+Using 902 in ratio
+Using 7 in ratio
+Added
+Looking at gear: (62, 28)
+Using 249 in ratio
+Using 544 in ratio
+Added
+Looking at gear: (62, 48)
+Using 821 in ratio
+Using 346 in ratio
+Added
+Looking at gear: (62, 79)
+Using 211 in ratio
+Using 923 in ratio
+Added
+Looking at gear: (63, 109)
+Using 938 in ratio
+Using 97 in ratio
+Added
+Looking at gear: (65, 18)
+Using 728 in ratio
+Using 419 in ratio
+Added
+Looking at gear: (65, 55)
+Using 308 in ratio
+Using 56 in ratio
+Added
+Looking at gear: (65, 80)
+Using 386 in ratio
+Using 836 in ratio
+Added
+Looking at gear: (65, 95)
+Using 537 in ratio
+Using 53 in ratio
+Added
+Looking at gear: (66, 28)
+Using 312 in ratio
+Using 192 in ratio
+Added
+Looking at gear: (66, 87)
+Using 83 in ratio
+Using 262 in ratio
+Added
+Looking at gear: (66, 127)
+Using 46 in ratio
+Using 4 in ratio
+Added
+Looking at gear: (67, 43)
+Using 714 in ratio
+Using 248 in ratio
+Added
+Looking at gear: (67, 102)
+Using 676 in ratio
+Looking at gear: (68, 116)
+Using 926 in ratio
+Using 791 in ratio
+Added
+Looking at gear: (69, 50)
+Using 832 in ratio
+Using 604 in ratio
+Added
+Looking at gear: (69, 58)
+Using 29 in ratio
+Looking at gear: (69, 79)
+Using 718 in ratio
+Using 793 in ratio
+Added
+Looking at gear: (69, 112)
+Using 955 in ratio
+Using 745 in ratio
+Added
+Looking at gear: (70, 16)
+Using 255 in ratio
+Using 853 in ratio
+Added
+Looking at gear: (70, 123)
+Using 381 in ratio
+Using 620 in ratio
+Added
+Looking at gear: (71, 106)
+Using 750 in ratio
+Looking at gear: (72, 11)
+Using 975 in ratio
+Using 9 in ratio
+Added
+Looking at gear: (72, 29)
+Using 393 in ratio
+Using 168 in ratio
+Added
+Looking at gear: (72, 32)
+Using 76 in ratio
+Using 472 in ratio
+Added
+Looking at gear: (73, 13)
+Using 755 in ratio
+Using 173 in ratio
+Added
+Looking at gear: (74, 41)
+Using 662 in ratio
+Using 651 in ratio
+Added
+Looking at gear: (74, 69)
+Using 372 in ratio
+Using 996 in ratio
+Added
+Looking at gear: (74, 100)
+Using 77 in ratio
+Using 271 in ratio
+Added
+Looking at gear: (74, 116)
+Using 188 in ratio
+Using 248 in ratio
+Added
+Looking at gear: (75, 36)
+Using 769 in ratio
+Using 624 in ratio
+Added
+Looking at gear: (75, 55)
+Using 740 in ratio
+Using 475 in ratio
+Added
+Looking at gear: (76, 47)
+Using 36 in ratio
+Using 29 in ratio
+Added
+Looking at gear: (76, 70)
+Using 183 in ratio
+Using 502 in ratio
+Added
+Looking at gear: (76, 94)
+Using 859 in ratio
+Using 414 in ratio
+Added
+Looking at gear: (76, 122)
+Using 667 in ratio
+Using 52 in ratio
+Added
+Looking at gear: (77, 31)
+Using 518 in ratio
+Using 359 in ratio
+Added
+Looking at gear: (77, 111)
+Using 932 in ratio
+Using 658 in ratio
+Added
+Looking at gear: (78, 26)
+Using 346 in ratio
+Using 280 in ratio
+Added
+Looking at gear: (78, 43)
+Using 720 in ratio
+Looking at gear: (78, 50)
+Using 282 in ratio
+Using 162 in ratio
+Added
+Looking at gear: (79, 90)
+Using 634 in ratio
+Using 344 in ratio
+Added
+Looking at gear: (79, 117)
+Using 519 in ratio
+Using 254 in ratio
+Added
+Looking at gear: (79, 135)
+Using 811 in ratio
+Using 656 in ratio
+Added
+Looking at gear: (80, 34)
+Using 108 in ratio
+Using 868 in ratio
+Added
+Looking at gear: (80, 41)
+Using 408 in ratio
+Looking at gear: (80, 61)
+Using 519 in ratio
+Using 449 in ratio
+Added
+Looking at gear: (81, 22)
+Using 190 in ratio
+Using 307 in ratio
+Added
+Looking at gear: (81, 79)
+Using 824 in ratio
+Using 208 in ratio
+Added
+Looking at gear: (81, 112)
+Using 279 in ratio
+Using 29 in ratio
+Added
+Looking at gear: (82, 3)
+Using 310 in ratio
+Using 254 in ratio
+Added
+Looking at gear: (82, 84)
+Using 154 in ratio
+Using 921 in ratio
+Added
+Looking at gear: (82, 101)
+Using 414 in ratio
+Using 107 in ratio
+Added
+Looking at gear: (82, 136)
+Using 871 in ratio
+Using 222 in ratio
+Added
+Looking at gear: (83, 131)
+Using 348 in ratio
+Using 448 in ratio
+Added
+Looking at gear: (84, 49)
+Using 284 in ratio
+Using 873 in ratio
+Added
+Looking at gear: (85, 40)
+Using 555 in ratio
+Using 363 in ratio
+Added
+Looking at gear: (85, 82)
+Using 226 in ratio
+Looking at gear: (85, 88)
+Using 830 in ratio
+Using 890 in ratio
+Added
+Looking at gear: (86, 9)
+Using 907 in ratio
+Looking at gear: (86, 13)
+Using 321 in ratio
+Using 207 in ratio
+Added
+Looking at gear: (86, 26)
+Using 303 in ratio
+Using 284 in ratio
+Added
+Looking at gear: (86, 60)
+Using 899 in ratio
+Using 346 in ratio
+Added
+Looking at gear: (87, 22)
+Using 698 in ratio
+Looking at gear: (87, 136)
+Using 246 in ratio
+Using 48 in ratio
+Added
+Looking at gear: (88, 88)
+Using 725 in ratio
+Using 397 in ratio
+Added
+Looking at gear: (89, 30)
+Using 577 in ratio
+Looking at gear: (90, 12)
+Using 855 in ratio
+Using 701 in ratio
+Added
+Looking at gear: (90, 121)
+Using 316 in ratio
+Using 822 in ratio
+Added
+Looking at gear: (91, 23)
+Using 108 in ratio
+Using 47 in ratio
+Added
+Looking at gear: (91, 57)
+Using 87 in ratio
+Using 428 in ratio
+Added
+Looking at gear: (92, 28)
+Using 476 in ratio
+Using 438 in ratio
+Added
+Looking at gear: (92, 67)
+Using 216 in ratio
+Using 258 in ratio
+Added
+Looking at gear: (92, 82)
+Using 174 in ratio
+Using 365 in ratio
+Added
+Looking at gear: (92, 117)
+Using 617 in ratio
+Using 186 in ratio
+Added
+Looking at gear: (92, 124)
+Using 222 in ratio
+Using 535 in ratio
+Added
+Looking at gear: (93, 94)
+Using 276 in ratio
+Using 95 in ratio
+Added
+Looking at gear: (94, 40)
+Using 66 in ratio
+Using 727 in ratio
+Added
+Looking at gear: (94, 66)
+Using 249 in ratio
+Using 364 in ratio
+Added
+Looking at gear: (95, 13)
+Using 557 in ratio
+Using 490 in ratio
+Added
+Looking at gear: (95, 87)
+Using 806 in ratio
+Using 539 in ratio
+Added
+Looking at gear: (95, 114)
+Using 220 in ratio
+Using 717 in ratio
+Added
+Looking at gear: (96, 20)
+Using 641 in ratio
+Using 869 in ratio
+Added
+Looking at gear: (96, 108)
+Using 342 in ratio
+Using 778 in ratio
+Added
+Looking at gear: (96, 129)
+Using 667 in ratio
+Using 7 in ratio
+Added
+Looking at gear: (97, 34)
+Using 273 in ratio
+Using 654 in ratio
+Added
+Looking at gear: (97, 36)
+Using 786 in ratio
+Using 634 in ratio
+Added
+Looking at gear: (97, 78)
+Using 244 in ratio
+Using 322 in ratio
+Added
+Looking at gear: (98, 7)
+Using 70 in ratio
+Using 950 in ratio
+Added
+Looking at gear: (98, 91)
+Using 503 in ratio
+Using 682 in ratio
+Added
+Looking at gear: (98, 126)
+Using 419 in ratio
+Looking at gear: (99, 20)
+Using 660 in ratio
+Using 175 in ratio
+Added
+Looking at gear: (99, 62)
+Using 344 in ratio
+Using 931 in ratio
+Added
+Looking at gear: (99, 103)
+Using 412 in ratio
+Using 702 in ratio
+Added
+Looking at gear: (100, 60)
+Using 118 in ratio
+Using 951 in ratio
+Added
+Looking at gear: (100, 67)
+Using 559 in ratio
+Using 553 in ratio
+Added
+Looking at gear: (100, 72)
+Using 694 in ratio
+Using 144 in ratio
+Added
+Looking at gear: (100, 128)
+Using 567 in ratio
+Using 801 in ratio
+Added
+Looking at gear: (101, 44)
+Using 334 in ratio
+Using 330 in ratio
+Added
+Looking at gear: (101, 49)
+Using 409 in ratio
+Using 365 in ratio
+Added
+Looking at gear: (102, 34)
+Using 156 in ratio
+Using 68 in ratio
+Added
+Looking at gear: (102, 57)
+Using 888 in ratio
+Using 634 in ratio
+Added
+Looking at gear: (103, 31)
+Using 751 in ratio
+Using 234 in ratio
+Added
+Looking at gear: (103, 44)
+Using 538 in ratio
+Using 597 in ratio
+Added
+Looking at gear: (103, 109)
+Using 13 in ratio
+Using 524 in ratio
+Added
+Looking at gear: (103, 123)
+Using 583 in ratio
+Using 232 in ratio
+Added
+Looking at gear: (104, 92)
+Using 179 in ratio
+Using 644 in ratio
+Added
+Looking at gear: (105, 4)
+Using 470 in ratio
+Using 207 in ratio
+Added
+Looking at gear: (105, 133)
+Using 7 in ratio
+Looking at gear: (107, 46)
+Using 224 in ratio
+Using 359 in ratio
+Added
+Looking at gear: (107, 77)
+Using 76 in ratio
+Using 11 in ratio
+Added
+Looking at gear: (107, 104)
+Using 48 in ratio
+Using 31 in ratio
+Added
+Looking at gear: (107, 107)
+Using 60 in ratio
+Using 716 in ratio
+Added
+Looking at gear: (108, 8)
+Using 787 in ratio
+Using 48 in ratio
+Added
+Looking at gear: (108, 27)
+Using 277 in ratio
+Using 265 in ratio
+Added
+Looking at gear: (110, 69)
+Using 781 in ratio
+Using 395 in ratio
+Added
+Looking at gear: (110, 112)
+Using 93 in ratio
+Using 955 in ratio
+Added
+Looking at gear: (111, 76)
+Using 844 in ratio
+Looking at gear: (111, 86)
+Using 949 in ratio
+Using 608 in ratio
+Added
+Looking at gear: (111, 105)
+Using 691 in ratio
+Looking at gear: (111, 107)
+Using 97 in ratio
+Using 74 in ratio
+Added
+Looking at gear: (111, 124)
+Using 539 in ratio
+Using 382 in ratio
+Added
+Looking at gear: (112, 8)
+Using 238 in ratio
+Using 221 in ratio
+Added
+Looking at gear: (112, 56)
+Using 357 in ratio
+Using 987 in ratio
+Added
+Looking at gear: (112, 102)
+Using 29 in ratio
+Using 66 in ratio
+Added
+Looking at gear: (114, 51)
+Using 491 in ratio
+Looking at gear: (114, 77)
+Using 958 in ratio
+Using 973 in ratio
+Added
+Looking at gear: (114, 112)
+Using 440 in ratio
+Looking at gear: (115, 84)
+Using 169 in ratio
+Using 519 in ratio
+Added
+Looking at gear: (116, 7)
+Using 48 in ratio
+Looking at gear: (116, 13)
+Using 523 in ratio
+Using 231 in ratio
+Added
+Looking at gear: (116, 91)
+Using 951 in ratio
+Using 668 in ratio
+Added
+Looking at gear: (116, 123)
+Using 49 in ratio
+Using 353 in ratio
+Added
+Looking at gear: (117, 34)
+Using 259 in ratio
+Using 806 in ratio
+Added
+Looking at gear: (117, 51)
+Using 175 in ratio
+Using 708 in ratio
+Added
+Looking at gear: (117, 61)
+Using 221 in ratio
+Using 697 in ratio
+Added
+Looking at gear: (117, 98)
+Using 878 in ratio
+Looking at gear: (117, 136)
+Using 112 in ratio
+Using 68 in ratio
+Added
+Looking at gear: (119, 76)
+Using 80 in ratio
+Using 494 in ratio
+Added
+Looking at gear: (119, 108)
+Using 179 in ratio
+Using 79 in ratio
+Added
+Looking at gear: (120, 3)
+Using 451 in ratio
+Using 670 in ratio
+Added
+Looking at gear: (120, 59)
+Using 479 in ratio
+Using 368 in ratio
+Added
+Looking at gear: (120, 94)
+Using 976 in ratio
+Using 9 in ratio
+Added
+Looking at gear: (120, 100)
+Using 487 in ratio
+Using 221 in ratio
+Added
+Looking at gear: (121, 66)
+Using 382 in ratio
+Using 664 in ratio
+Added
+Looking at gear: (121, 112)
+Using 979 in ratio
+Looking at gear: (121, 120)
+Using 247 in ratio
+Using 945 in ratio
+Added
+Looking at gear: (122, 43)
+Using 204 in ratio
+Using 823 in ratio
+Added
+Looking at gear: (123, 16)
+Using 551 in ratio
+Using 339 in ratio
+Added
+Looking at gear: (123, 62)
+Using 735 in ratio
+Using 219 in ratio
+Added
+Looking at gear: (123, 136)
+Using 658 in ratio
+Using 680 in ratio
+Added
+Looking at gear: (124, 78)
+Using 995 in ratio
+Using 910 in ratio
+Added
+Looking at gear: (124, 84)
+Using 344 in ratio
+Using 535 in ratio
+Added
+Looking at gear: (124, 109)
+Using 996 in ratio
+Using 560 in ratio
+Added
+Looking at gear: (125, 42)
+Using 921 in ratio
+Using 795 in ratio
+Added
+Looking at gear: (125, 65)
+Using 213 in ratio
+Using 748 in ratio
+Added
+Looking at gear: (125, 130)
+Using 131 in ratio
+Using 244 in ratio
+Added
+Looking at gear: (126, 28)
+Using 260 in ratio
+Using 553 in ratio
+Added
+Looking at gear: (126, 107)
+Using 657 in ratio
+Using 206 in ratio
+Added
+Looking at gear: (127, 53)
+Using 31 in ratio
+Using 32 in ratio
+Added
+Looking at gear: (128, 21)
+Using 193 in ratio
+Using 320 in ratio
+Added
+Looking at gear: (128, 51)
+Using 589 in ratio
+Looking at gear: (128, 85)
+Using 124 in ratio
+Using 547 in ratio
+Added
+Looking at gear: (129, 35)
+Using 950 in ratio
+Using 457 in ratio
+Added
+Looking at gear: (129, 41)
+Using 442 in ratio
+Using 131 in ratio
+Added
+Looking at gear: (129, 126)
+Using 191 in ratio
+Using 427 in ratio
+Added
+Looking at gear: (130, 107)
+Using 405 in ratio
+Using 145 in ratio
+Added
+Looking at gear: (130, 116)
+Using 230 in ratio
+Using 636 in ratio
+Added
+Looking at gear: (131, 102)
+Using 875 in ratio
+Using 959 in ratio
+Added
+Looking at gear: (132, 41)
+Using 90 in ratio
+Using 621 in ratio
+Added
+Looking at gear: (132, 87)
+Using 979 in ratio
+Using 162 in ratio
+Added
+Looking at gear: (132, 94)
+Using 666 in ratio
+Using 942 in ratio
+Added
+Looking at gear: (133, 19)
+Using 742 in ratio
+Using 568 in ratio
+Added
+Looking at gear: (133, 29)
+Using 478 in ratio
+Using 501 in ratio
+Added
+Looking at gear: (134, 37)
+Using 625 in ratio
+Using 181 in ratio
+Added
+Looking at gear: (134, 105)
+Using 77 in ratio
+Using 349 in ratio
+Added
+Looking at gear: (135, 52)
+Using 523 in ratio
+Looking at gear: (136, 12)
+Using 283 in ratio
+Using 745 in ratio
+Added
+Looking at gear: (136, 70)
+Using 977 in ratio
+Using 502 in ratio
+Added
+Looking at gear: (136, 108)
+Using 298 in ratio
+Using 433 in ratio
+Added
+Looking at gear: (137, 53)
+Using 719 in ratio
+Using 147 in ratio
+Added
+Looking at gear: (137, 83)
+Using 473 in ratio
+Looking at gear: (138, 23)
+Using 100 in ratio
+Using 571 in ratio
+Added
+Looking at gear: (138, 48)
+Using 720 in ratio
+Using 52 in ratio
+Added
+Looking at gear: (138, 133)
+Using 128 in ratio
+Using 93 in ratio
+Added
+Final sum: 67779080
