@@ -9,7 +9,7 @@
 
 char** apply_regex(PCRE2_SPTR* p, PCRE2_SPTR* s) {
 
-  char** out = malloc(100*sizeof(char*));
+  char** out = malloc(100000);
 
   int out_idx = 0;
   PCRE2_SPTR pattern = *p, subject = *s;
@@ -60,7 +60,7 @@ char** apply_regex(PCRE2_SPTR* p, PCRE2_SPTR* s) {
                     newline == PCRE2_NEWLINE_ANYCRLF;
 
   for (int i = 0; i < rc; i++) {
-    char* digit = malloc(5);
+    char* digit = malloc(200);
     digit[0] = '\0';
     PCRE2_SPTR substring_start = subject + ovector[2*i];
     size_t substring_length = ovector[2*i+1] - ovector[2*i];
@@ -109,7 +109,7 @@ char** apply_regex(PCRE2_SPTR* p, PCRE2_SPTR* s) {
     }
 
     for (int i = 0; i < rc; i++) {
-      char* digit = malloc(5);
+      char* digit = malloc(200);
       digit[0] = '\0';
       PCRE2_SPTR substring_start = subject + ovector[2*i];
       size_t substring_length = ovector[2*i+1] - ovector[2*i];
@@ -165,7 +165,7 @@ int main(void) {
     }
 
     // Fix issue with last numbers being one char too long
-    my_numbers[last_idx][strlen(my_numbers[last_idx]) - 1] = '\0';
+    printf("Last number: %s\n", my_numbers[last_idx]);
 
     int matches = 0;
     for (int i = 0; i < 100; i++) {
