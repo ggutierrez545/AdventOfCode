@@ -1,0 +1,613 @@
+Piece L at (0, 0)
+Num tiles right: 140
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece . at (0, 1)
+Num tiles right: 139
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 2)
+Num tiles right: 138
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 3)
+Num tiles right: 137
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 4)
+Num tiles right: 136
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 5)
+Num tiles right: 135
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 6)
+Num tiles right: 134
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece | at (0, 7)
+Num tiles right: 133
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece . at (0, 8)
+Num tiles right: 132
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 9)
+Num tiles right: 131
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece . at (0, 10)
+Num tiles right: 130
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 11)
+Num tiles right: 129
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 12)
+Num tiles right: 128
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 13)
+Num tiles right: 127
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 14)
+Num tiles right: 126
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 15)
+Num tiles right: 125
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 16)
+Num tiles right: 124
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece . at (0, 17)
+Num tiles right: 123
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 18)
+Num tiles right: 122
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 19)
+Num tiles right: 121
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 20)
+Num tiles right: 120
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece L at (0, 21)
+Num tiles right: 119
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 22)
+Num tiles right: 118
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 23)
+Num tiles right: 117
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece . at (0, 24)
+Num tiles right: 116
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 25)
+Num tiles right: 115
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece . at (0, 26)
+Num tiles right: 114
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 27)
+Num tiles right: 113
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 28)
+Num tiles right: 112
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 29)
+Num tiles right: 111
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 30)
+Num tiles right: 110
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece . at (0, 31)
+Num tiles right: 109
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 32)
+Num tiles right: 108
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 33)
+Num tiles right: 107
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 34)
+Num tiles right: 106
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 35)
+Num tiles right: 105
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 36)
+Num tiles right: 104
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 37)
+Num tiles right: 103
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 38)
+Num tiles right: 102
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece . at (0, 39)
+Num tiles right: 101
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece J at (0, 40)
+Num tiles right: 100
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece J at (0, 41)
+Num tiles right: 99
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 42)
+Num tiles right: 98
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece . at (0, 43)
+Num tiles right: 97
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece . at (0, 44)
+Num tiles right: 96
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 45)
+Num tiles right: 95
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 46)
+Num tiles right: 94
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 47)
+Num tiles right: 93
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 48)
+Num tiles right: 92
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece | at (0, 49)
+Num tiles right: 91
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 50)
+Num tiles right: 90
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 51)
+Num tiles right: 89
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 52)
+Num tiles right: 88
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece | at (0, 53)
+Num tiles right: 87
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 54)
+Num tiles right: 86
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 55)
+Num tiles right: 85
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 56)
+Num tiles right: 84
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 57)
+Num tiles right: 83
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece J at (0, 58)
+Num tiles right: 82
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 59)
+Num tiles right: 81
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 60)
+Num tiles right: 80
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 61)
+Num tiles right: 79
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 62)
+Num tiles right: 78
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 63)
+Num tiles right: 77
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece | at (0, 64)
+Num tiles right: 76
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 65)
+Num tiles right: 75
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 66)
+Num tiles right: 74
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 67)
+Num tiles right: 73
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 68)
+Num tiles right: 72
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 69)
+Num tiles right: 71
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece J at (0, 70)
+Num tiles right: 70
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 71)
+Num tiles right: 69
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 72)
+Num tiles right: 68
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 73)
+Num tiles right: 67
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 74)
+Num tiles right: 66
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 75)
+Num tiles right: 65
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 76)
+Num tiles right: 64
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 77)
+Num tiles right: 63
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 78)
+Num tiles right: 62
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 79)
+Num tiles right: 61
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 80)
+Num tiles right: 60
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 81)
+Num tiles right: 59
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 82)
+Num tiles right: 58
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 83)
+Num tiles right: 57
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 84)
+Num tiles right: 56
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece | at (0, 85)
+Num tiles right: 55
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 86)
+Num tiles right: 54
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 87)
+Num tiles right: 53
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 88)
+Num tiles right: 52
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 89)
+Num tiles right: 51
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece . at (0, 90)
+Num tiles right: 50
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece | at (0, 91)
+Num tiles right: 49
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 92)
+Num tiles right: 48
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 93)
+Num tiles right: 47
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece | at (0, 94)
+Num tiles right: 46
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 95)
+Num tiles right: 45
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 96)
+Num tiles right: 44
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece F at (0, 97)
+Num tiles right: 43
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece - at (0, 98)
+Num tiles right: 42
+Crossing piece F at (0, 99)
+Crossing piece 7 at (0, 100)
+Traversals: 2
+Piece 7 at (0, 101)
+Num tiles right: 39
+Traversals: 0
+Piece - at (0, 102)
+Num tiles right: 38
+Traversals: 0
+Piece F at (0, 103)
+Num tiles right: 37
+Traversals: 0
+Piece 7 at (0, 104)
+Num tiles right: 36
+Traversals: 0
+Piece F at (0, 105)
+Num tiles right: 35
+Traversals: 0
+Piece J at (0, 106)
+Num tiles right: 34
+Traversals: 0
+Piece 7 at (0, 107)
+Num tiles right: 33
+Traversals: 0
+Piece 7 at (0, 108)
+Num tiles right: 32
+Traversals: 0
+Piece 7 at (0, 109)
+Num tiles right: 31
+Traversals: 0
+Piece . at (0, 110)
+Num tiles right: 30
+Traversals: 0
+Piece F at (0, 111)
+Num tiles right: 29
+Traversals: 0
+Piece J at (0, 112)
+Num tiles right: 28
+Traversals: 0
+Piece . at (0, 113)
+Num tiles right: 27
+Traversals: 0
+Piece F at (0, 114)
+Num tiles right: 26
+Traversals: 0
+Piece J at (0, 115)
+Num tiles right: 25
+Traversals: 0
+Piece 7 at (0, 116)
+Num tiles right: 24
+Traversals: 0
+Piece - at (0, 117)
+Num tiles right: 23
+Traversals: 0
+Piece | at (0, 118)
+Num tiles right: 22
+Traversals: 0
+Piece - at (0, 119)
+Num tiles right: 21
+Traversals: 0
+Piece 7 at (0, 120)
+Num tiles right: 20
+Traversals: 0
+Piece - at (0, 121)
+Num tiles right: 19
+Traversals: 0
+Piece F at (0, 122)
+Num tiles right: 18
+Traversals: 0
+Piece F at (0, 123)
+Num tiles right: 17
+Traversals: 0
+Piece F at (0, 124)
+Num tiles right: 16
+Traversals: 0
+Piece J at (0, 125)
+Num tiles right: 15
+Traversals: 0
+Piece F at (0, 126)
+Num tiles right: 14
+Traversals: 0
+Piece F at (0, 127)
+Num tiles right: 13
+Traversals: 0
+Piece - at (0, 128)
+Num tiles right: 12
+Traversals: 0
+Piece 7 at (0, 129)
+Num tiles right: 11
+Traversals: 0
+Piece 7 at (0, 130)
+Num tiles right: 10
+Traversals: 0
+Piece L at (0, 131)
+Num tiles right: 9
+Traversals: 0
+Piece 7 at (0, 132)
+Num tiles right: 8
+Traversals: 0
+Piece L at (0, 133)
+Num tiles right: 7
+Traversals: 0
+Piece F at (0, 134)
+Num tiles right: 6
+Traversals: 0
+Piece | at (0, 135)
+Num tiles right: 5
+Traversals: 0
+Piece F at (0, 136)
+Num tiles right: 4
+Traversals: 0
+Piece L at (0, 137)
+Num tiles right: 3
+Traversals: 0
+Piece 7 at (0, 138)
+Num tiles right: 2
+Traversals: 0
+Piece 7 at (0, 139)
+Num tiles right: 1
+Traversals: 0
+Contained tiles: 0
