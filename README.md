@@ -1,2 +1,2 @@
-# AdventOfCode2023
-My (likely terrible) C-only solutions to Advent of Code 2023!
+# Advent(ure) of Code
+My (likely terrible) C-only solutions for Advent of Code 2023 & 2024!
