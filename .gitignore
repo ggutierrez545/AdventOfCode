@@ -52,5 +52,8 @@ Mkfile.old
 dkms.conf
 
 #Advent of Code
-input.txt
-example.txt
+input*.txt
+example*.txt
+
+#JetBrains
+.idea/
