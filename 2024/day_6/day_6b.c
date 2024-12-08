@@ -18,61 +18,7 @@ typedef struct guard {
   char orientation;
 } guard;
 
-int load_obstacles(char *file, int *i, int *num_columns, struct obstacle *head, struct guard *guard) {
-
-  FILE *fp;
-  char read_buffer[255];
-
-  fp = fopen(file, "r");
-
-  if (fp == NULL) {
-    printf("Error opening file: %s", file);
-    return EXIT_FAILURE;
-  }
-
-  while(fgets(read_buffer, 255, fp) != NULL) {
-    *num_columns = strlen(read_buffer) - 1;
-    for (int j = 0; j < strlen(read_buffer); j++) {
-      if (strncmp(&read_buffer[j], "#", 1) == 0) {
-        if (head == NULL) {
-          head = malloc(sizeof(obstacle));
-          head->x = *i;
-          head->y = j;
-          continue;
-        }
-        struct obstacle *ob = malloc(sizeof(obstacle));
-        ob->x = *i;
-        ob->y = j;
-        struct obstacle *tmp = head;
-        while (tmp != NULL) {
-          if (tmp->next == NULL) {
-            tmp->next = ob;
-            break;
-          }
-          tmp = tmp->next;
-        }
-      } else if (strncmp(&read_buffer[j], "^", 1) == 0 ||
-                 strncmp(&read_buffer[j], ">", 1) == 0 ||
-                 strncmp(&read_buffer[j], "v", 1) == 0 ||
-                 strncmp(&read_buffer[j], "<", 1) == 0
-      ) {
-        guard->x = *i;
-        guard->y = j;
-        guard->orientation = *strndup(&read_buffer[j], 1);
-      }
-    }
-    (*i)++;
-  }
-  struct obstacle *tmp = head;
-  while (tmp != NULL) {
-    printf("Obstacle: (%i,%i)\n", tmp->x, tmp->y);
-    tmp = tmp->next;
-  }
-  fclose(fp);
-  return EXIT_SUCCESS;
-}
-
-bool simulate_movement(struct guard *guard, struct obstacle *head, int *num_columns) {
+bool simulate_movement(struct guard *guard, struct obstacle *head, int num_columns) {
   struct hashtable *visited = create_hash_table(1000);
   struct item *start_position = malloc(sizeof(item));
   char key[25];
@@ -80,8 +26,9 @@ bool simulate_movement(struct guard *guard, struct obstacle *head, int *num_colu
   strcpy(start_position->key, key);
   hash_table_insert(visited, start_position);
   bool on_map = true;
-  int steps = 0;
-  while (on_map && steps < 10000) {
+  //printf("Guard starting position: (%i,%i) facing %c\n", guard->x, guard->y, guard->orientation);
+  int num_iterations = 0;
+  while (on_map && num_iterations < 1000) {
     if (guard->orientation == '^') {
       // Identify closest obstacle
       struct obstacle *tmp = head;
@@ -108,19 +55,21 @@ bool simulate_movement(struct guard *guard, struct obstacle *head, int *num_colu
         closest->y = guard->y;
       }
       int j;
-      for (j = guard->x; j > closest->x; j--) {
+      for (j = guard->x - 1; j > closest->x; j--) {
         char key[25];
-        sprintf(key, "^(%i,%i)", j, guard->y);
+        sprintf(key, "(%i,%i)", j, guard->y);
+        //printf("%s\n", key);
         struct item *space = hash_table_lookup(visited, key);
-        if (space == NULL) {
-          space = malloc(sizeof(item));
-          strcpy(space->key, key);
-          hash_table_insert(visited, space);
+        if (space != NULL) {
+          continue;
         }
-        steps++;
+        space = malloc(sizeof(item));
+        strcpy(space->key, key);
+        hash_table_insert(visited, space);
       }
       guard->x = j + 1;
       guard->orientation = on_map ? '>' : 'x';
+      //printf("New guard position: (%i,%i) facing %c\n", guard->x, guard->y, guard->orientation);
     } else if (guard->orientation == '>') {
       // Identify closest obstacle
       struct obstacle *tmp = head;
@@ -144,22 +93,24 @@ bool simulate_movement(struct guard *guard, struct obstacle *head, int *num_colu
         on_map = false;
         closest = malloc(sizeof(obstacle));
         closest->x = guard->x;
-        closest->y = *num_columns;
+        closest->y = num_columns;
       }
       int j;
-      for (j = guard->y; j < closest->y; j++) {
+      for (j = guard->y + 1; j < closest->y; j++) {
         char key[25];
-        sprintf(key, ">(%i,%i)", guard->x, j);
+        sprintf(key, "(%i,%i)", guard->x, j);
+        //printf("%s\n", key);
         struct item *space = hash_table_lookup(visited, key);
-        if (space == NULL) {
-          space = malloc(sizeof(item));
-          strcpy(space->key, key);
-          hash_table_insert(visited, space);
+        if (space != NULL) {
+          continue;
         }
-        steps++;
+        space = malloc(sizeof(item));
+        strcpy(space->key, key);
+        hash_table_insert(visited, space);
       }
       guard->y = j - 1;
       guard->orientation = on_map ? 'v' : 'x';
+      //printf("New guard position: (%i,%i) facing %c\n", guard->x, guard->y, guard->orientation);
     } else if (guard->orientation == 'v') {
       // Identify closest obstacle
       struct obstacle *tmp = head;
@@ -182,23 +133,25 @@ bool simulate_movement(struct guard *guard, struct obstacle *head, int *num_colu
       if (closest == NULL) {
         on_map = false;
         closest = malloc(sizeof(obstacle));
-        closest->x = *num_columns;
+        closest->x = num_columns;
         closest->y = guard->y;
       }
       int j;
-      for (j = guard->x; j < closest->x; j++) {
+      for (j = guard->x + 1; j < closest->x; j++) {
         char key[25];
-        sprintf(key, "v(%i,%i)", j, guard->y);
+        sprintf(key, "(%i,%i)", j, guard->y);
+        //printf("%s\n", key);
         struct item *space = hash_table_lookup(visited, key);
-        if (space == NULL) {
-          space = malloc(sizeof(item));
-          strcpy(space->key, key);
-          hash_table_insert(visited, space);
+        if (space != NULL) {
+          continue;
         }
-        steps++;
+        space = malloc(sizeof(item));
+        strcpy(space->key, key);
+        hash_table_insert(visited, space);
       }
       guard->x = j - 1;
       guard->orientation = on_map ? '<' : 'x';
+      //printf("New guard position: (%i,%i) facing %c\n", guard->x, guard->y, guard->orientation);
     } else if (guard->orientation == '<') {
       // Identify closest obstacle
       struct obstacle *tmp = head;
@@ -225,85 +178,113 @@ bool simulate_movement(struct guard *guard, struct obstacle *head, int *num_colu
         closest->y = 0;
       }
       int j;
-      for (j = guard->y; j > closest->y; j--) {
+      for (j = guard->y - 1; j > closest->y; j--) {
         char key[25];
-        sprintf(key, "<(%i,%i)", guard->x, j);
+        sprintf(key, "(%i,%i)", guard->x, j);
+        //printf("%s\n", key);
         struct item *space = hash_table_lookup(visited, key);
-        if (space == NULL) {
-          space = malloc(sizeof(item));
-          strcpy(space->key, key);
-          hash_table_insert(visited, space);
+        if (space != NULL) {
+          continue;
         }
-        steps++;
+        space = malloc(sizeof(item));
+        strcpy(space->key, key);
+        hash_table_insert(visited, space);
       }
       guard->y = j + 1;
       guard->orientation = on_map ? '^' : 'x';
+      //printf("New guard position: (%i,%i) facing %c\n", guard->x, guard->y, guard->orientation);
     }
+    num_iterations++;
   }
+  destroy_hash_table(visited);
   return on_map;
 }
 
-
 int main(int argc, char *argv[]) {
+
+  FILE *fp;
+  char read_buffer[255];
+
+  fp = fopen(argv[1], "r");
+
+  if (fp == NULL) {
+    printf("Error opening file: %s", argv[1]);
+    return EXIT_FAILURE;
+  }
 
   // Initial read to get obstacle coordinates
   int i = 0;
   int num_columns;
-  struct obstacle *head = malloc(sizeof(struct obstacle));
-  struct guard *guard = malloc(sizeof(struct guard));
-  int exit;
-  exit = load_obstacles(argv[1], &i, &num_columns, head, guard);
-  if (exit == EXIT_FAILURE) {
-    return exit;
+  struct obstacle *head = NULL;
+  struct guard *guard = malloc(sizeof(guard));
+  while(fgets(read_buffer, 255, fp) != NULL) {
+    num_columns = strlen(read_buffer) - 1;
+    for (int j = 0; j < strlen(read_buffer); j++) {
+      if (strncmp(&read_buffer[j], "#", 1) == 0) {
+        if (head == NULL) {
+          head = malloc(sizeof(obstacle));
+          head->x = i;
+          head->y = j;
+          continue;
+        }
+        struct obstacle *ob = malloc(sizeof(obstacle));
+        ob->x = i;
+        ob->y = j;
+        struct obstacle *tmp = head;
+        while (tmp != NULL) {
+          if (tmp->next == NULL) {
+            tmp->next = ob;
+            break;
+          }
+          tmp = tmp->next;
+        }
+      } else if (strncmp(&read_buffer[j], "^", 1) == 0 ||
+                 strncmp(&read_buffer[j], ">", 1) == 0 ||
+                 strncmp(&read_buffer[j], "v", 1) == 0 ||
+                 strncmp(&read_buffer[j], "<", 1) == 0
+                ) {
+        guard->x = i;
+        guard->y = j;
+        guard->orientation = *strndup(&read_buffer[j], 1);
+      }
+    }
+    i++;
   }
 
-  //bool on_map = simulate_movement(guard, head, &num_columns);
-  //printf("On map: %s\n", on_map ? "true" : "false");
-
-  //printf("Head: (%i,%i)\n", head->x, head->y);
-  //struct obstacle *tmp = head;
-  //while (tmp != NULL) {
-  //  printf("Obstacle: (%i,%i)\n", tmp->x, tmp->y);
-  //  tmp = tmp->next;
-  //}
-  return EXIT_SUCCESS;
-  int potential_obstacles = 0;
+  int num_obstacles = 0;
   // Simulate guard movement
   for (int j = 0; j < num_columns; j++) {
     for (int z = 0; z < num_columns; z++) {
-      struct obstacle *inject = malloc(sizeof(struct obstacle));
-      inject->x = j;
-      inject->y = z;
-      inject->next = NULL;
+      //printf("New obstacle at: (%i,%i)\n", j, z);
+      if (j == guard->x && z == guard->y) continue;
+      struct guard *new_guard = malloc(sizeof(struct guard));
+      new_guard->x = guard->x;
+      new_guard->y = guard->y;
+      new_guard->orientation = guard->orientation;
+      struct obstacle *ob = malloc(sizeof(obstacle));
+      ob->x = j;
+      ob->y = z;
       struct obstacle *tmp = head;
       while (tmp->next != NULL) {
         tmp = tmp->next;
       }
-      tmp->next = inject;
-      struct guard *guard_copy = malloc(sizeof(struct guard));
-      guard_copy->x = guard->x;
-      guard_copy->y = guard->y;
-      guard_copy->orientation = guard->orientation;
-      printf("Guard copy: %c(%i,%i)\n", guard_copy->orientation, guard_copy->x, guard_copy->y);
+      tmp->next = ob;
+      bool got_looped = simulate_movement(new_guard, head, num_columns);
+      num_obstacles += (int)got_looped;
       tmp = head;
-      while (tmp != NULL) {
-        printf("Obstacle: (%i,%i)\n", tmp->x, tmp->y);
-        tmp = tmp->next;
-      }
-      bool trapped = simulate_movement(guard_copy, head, &num_columns);
-      tmp = head;
-      while (tmp->next != NULL) {
+      while (tmp->next->next != NULL) {
         tmp = tmp->next;
       }
       tmp->next = NULL;
-      if (trapped) {
-        potential_obstacles++;
-      }
+      free(ob);
+      free(new_guard);
     }
-    return EXIT_SUCCESS;
   }
 
-  printf("Potential obstacles: %i\n", potential_obstacles);
+  //printf("Guard exited at: (%i, %i)\n", guard->x, guard->y);
+  //print_table(visited);
+  printf("Number loops: %i\n", num_obstacles);
 
+  fclose(fp);
   return EXIT_SUCCESS;
 }
