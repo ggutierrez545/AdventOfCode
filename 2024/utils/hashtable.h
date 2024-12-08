@@ -6,10 +6,16 @@
 
 #define MAX_KEY_SIZE 256
 
+typedef struct node {
+  char key[10];
+  struct node *next;
+} node;
+
 typedef struct item {
   char key[MAX_KEY_SIZE];
   int count;
   struct item *next;
+  struct node *before;
 } item;
 
 typedef struct hashtable {
@@ -103,6 +109,19 @@ void destroy_hash_table(struct hashtable *ht) {
     }
   }
   free(ht);
+}
+
+int size_hash_table(struct hashtable *ht) {
+  int size = 0;
+  for (int i = 0; i < ht->capacity; i++) {
+    struct item *it = ht->entries[i];
+    while (it != NULL) {
+      struct item *tmp = it;
+      it = it->next;
+      size++;
+    }
+  }
+  return size;
 }
 
 // int main(void) {
