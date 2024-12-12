@@ -14,6 +14,7 @@ typedef struct node {
 typedef struct item {
   char key[MAX_KEY_SIZE];
   int count;
+  int value;
   struct item *next;
   struct node *before;
 } item;
